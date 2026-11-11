@@ -1,7 +1,7 @@
-# Taller-HTML---CSS
+# Taller-HTML---CSS---JS
 
-Actividad Individual css
+Practica CSS y Practica JS
 
 ## Objetivo
 
-Practicar con CSS implementando sus funcionalidades basicas.
+Practicar con CSS y JS implementando sus funcionalidades basicas.
